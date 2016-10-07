@@ -11,8 +11,8 @@ d = webdriver.Chrome()
 employees = []
 connections = []
 
-email = "youremail@company.com"
-password = "your linkedin password"
+email = "imrobert@email.wm.edu"
+password = "ian123"
 
 
 def linkedin_login(email, password):
